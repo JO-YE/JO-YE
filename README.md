@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwwxThvN27agMA75bi18jkPkj2Patv5UpYQ&usqp=CAU">
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📝 I regularly write articles on [https://globaljoye.hashnode.dev/](https://globaljoye.hashnode.dev/)
 
