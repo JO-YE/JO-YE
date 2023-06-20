@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [https://globaljoye.hashnode.dev/](https://globaljoye.hashnode.dev/)
+<!-- - 📝 I regularly write articles on [https://globaljoye.hashnode.dev/](https://globaljoye.hashnode.dev/) -->
 
 - 💬 Ask me about **Web development**
 
