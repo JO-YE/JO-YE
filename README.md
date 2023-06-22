@@ -1,7 +1,7 @@
 ![github-header-image (6)](https://github.com/JO-YE/JO-YE/assets/111038087/a1936b55-271c-41c2-bf30-077de4048229)
 
 <h1 align="center">Hi 👋, I'm Racheal</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate full-stack developer(frontend specialist) from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwwxThvN27agMA75bi18jkPkj2Patv5UpYQ&usqp=CAU">
 
 - 🌱 I’m currently learning **JavaScript**
